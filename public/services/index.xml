@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on ROCI Consulting</title>
-    <link>http://localhost:1313/services/</link>
+    <link>https://rociconsulting.ca/services/</link>
     <description>Recent content in Services on ROCI Consulting</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2024 15:15:26 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 12:33:46 +1000</lastBuildDate>
+    <atom:link href="https://rociconsulting.ca/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Advisory</title>
-      <link>http://localhost:1313/services/advisory/</link>
-      <pubDate>Tue, 26 Mar 2024 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/advisory/</guid>
+      <title>Services</title>
+      <link>https://rociconsulting.ca/services/advisory/</link>
+      <pubDate>Sun, 28 Apr 2024 12:33:46 +1000</pubDate>
+      <guid>https://rociconsulting.ca/services/advisory/</guid>
       <description>&lt;p&gt;Providing one off or ongoing Cyber Security advisory services that offer expert guidance and strategic support to improve your company&amp;rsquo;s security posture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cyber Security Maturity Assessment</title>
-      <link>http://localhost:1313/services/assessment/</link>
+      <link>https://rociconsulting.ca/services/assessment/</link>
       <pubDate>Wed, 27 Mar 2024 15:14:39 +1000</pubDate>
-      <guid>http://localhost:1313/services/assessment/</guid>
+      <guid>https://rociconsulting.ca/services/assessment/</guid>
       <description>A Cyber Security assessment will allow us to measure your current maturity level.</description>
     </item>
     <item>
       <title>Business Differentiator</title>
-      <link>http://localhost:1313/services/business-differentiator/</link>
+      <link>https://rociconsulting.ca/services/business-differentiator/</link>
       <pubDate>Wed, 27 Mar 2024 15:15:26 +1000</pubDate>
-      <guid>http://localhost:1313/services/business-differentiator/</guid>
+      <guid>https://rociconsulting.ca/services/business-differentiator/</guid>
       <description>&lt;p&gt;A well-protected business is confident and innovative. Today, smart businesses not only manage cyber risks but turn them into opportunities for growth.&lt;/p&gt;</description>
     </item>
   </channel>
