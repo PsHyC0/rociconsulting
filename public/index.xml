@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on ROCI Consulting</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Homepage on ROCI Consulting</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2024 12:33:46 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/advisory/</link>
+      <pubDate>Sun, 28 Apr 2024 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/services/advisory/</guid>
+      <description>&lt;p&gt;Providing one off or ongoing Cyber Security advisory services that offer expert guidance and strategic support to improve your company&amp;rsquo;s security posture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyber Security Maturity Assessment</title>
+      <link>http://localhost:1313/services/assessment/</link>
+      <pubDate>Wed, 27 Mar 2024 15:14:39 +1000</pubDate>
+      <guid>http://localhost:1313/services/assessment/</guid>
+      <description>A Cyber Security assessment will allow us to measure your current maturity level.</description>
+    </item>
+    <item>
+      <title>Business Differentiator</title>
+      <link>http://localhost:1313/services/business-differentiator/</link>
+      <pubDate>Wed, 27 Mar 2024 15:15:26 +1000</pubDate>
+      <guid>http://localhost:1313/services/business-differentiator/</guid>
+      <description>&lt;p&gt;A well-protected business is confident and innovative. Today, smart businesses not only manage cyber risks but turn them into opportunities for growth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 27 Mar 2024 17:01:34 +0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>First - the company name.&#xA;I wanted my company to have a unique name but I didn&amp;rsquo;t want to be another XYZ Security or ABC Cyber. I wanted the company&amp;rsquo;s name to be something unique and somewhat geeky. I was listening to the audiobooks for the Expanse sci-fi series. In the books, the characters &amp;ldquo;inherit&amp;rdquo; a Martian space craft that they decide to name &amp;ldquo;Rocinante&amp;rdquo;, which I later discovered came from the name of Don Quixote&amp;rsquo;s horse.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Reach out for a consultation or just to chat!</description>
+    </item>
+  </channel>
+</rss>
